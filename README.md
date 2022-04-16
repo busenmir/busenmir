@@ -1,8 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Buse Demir</h1>
+<h1 align="center">Hi 👋, I'm Buse </h1>
 <h3 align="center">💻 I am a computer engineer.</h3>
 <h3 align="center">👀 I am interested in mobile programming</h3>
+<h3 align="center">💻 I'm making Android Kotlin software</h3>
 <h3 align="center">📫 you can contact me buse93dmr@gmail.com</h3>
+
+<img align="right" height="270px" alt="guy" width="350" src="https://media.giphy.com/media/QCAaqb7STvc3u/giphy.gif" /> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
